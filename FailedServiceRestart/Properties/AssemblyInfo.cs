@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Watch Man Service")]
-[assembly: AssemblyDescription("Watch Man Service for Microsoft Dynamics Nav 2009")]
+[assembly: AssemblyDescription("Watch Man Service")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RAJU MJIB")]
-[assembly: AssemblyProduct("Watch Man Service - ODesk")]
+[assembly: AssemblyProduct("Watch Man Service")]
 [assembly: AssemblyCopyright("Copyright © Jahirul Islam 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

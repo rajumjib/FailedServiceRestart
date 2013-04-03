@@ -1043,7 +1043,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:Mircrosoft Dynamics NAV Business Web Service"
+                            "Value" = "8:Business Web Service"
                             "DefaultValue" = "8:"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -1095,7 +1095,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:amartynyak@clovertech.com"
+                            "Value" = "8:0nline4help@gmail.com"
                             "DefaultValue" = "8:"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -1147,7 +1147,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:amartynyak@clovertech.com"
+                            "Value" = "8:0nline4help@gmail.com"
                             "DefaultValue" = "8:"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -1199,7 +1199,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:webmail.clovertech.com"
+                            "Value" = "8:localhost"
                             "DefaultValue" = "8:"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -1299,7 +1299,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:465"
+                            "Value" = "8:"
                             "DefaultValue" = "8:"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -1528,7 +1528,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_A8B53A0BF20B4132A9EF7CE761DA1B06"
             {
-            "SourcePath" = "8:..\\FailedServiceRestart\\obj\\x86\\Release\\FailedServiceRestart.exe"
+            "SourcePath" = "8:..\\FailedServiceRestart\\obj\\x86\\Debug\\FailedServiceRestart.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_BC1A9DFF7B4B413C9CDDC571000B2173"

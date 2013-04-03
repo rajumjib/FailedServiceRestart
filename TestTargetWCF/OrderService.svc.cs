@@ -30,34 +30,6 @@ namespace TestTargetWCF
                 throw new Exception("This is an service error occours every 3rd request");
             }
 
-            /*
-            var client = new SmtpClient("localhost");
-            var from = new MailAddress("ibuybusinesses@gmail.com", "Andy " + (char) 0xD8 + " Martynyak ", Encoding.UTF8);
-            var to = new MailAddress("ibuybusinesses@gmail.com");
-            var message = new MailMessage(from, to);
-
-            message.Body = "A client has been asking for this service, Time:" + DateTime.Now.ToString();
-            message.Body += Environment.NewLine;
-            message.BodyEncoding = Encoding.UTF8;
-
-            message.Subject = "Responce of testing service";
-            message.SubjectEncoding = Encoding.UTF8;
-
-            client.SendCompleted += SendCompletedCallback;
-
-            string userState = "Sending Mail...";
-            client.SendAsync(message, userState);
-
-            // If cancel command received
-            if (false && mailSent == false)
-            {
-                client.SendAsyncCancel();
-            }
-
-            // Clean up.
-            message.Dispose();
-            */
-
             return model;
         }
 
