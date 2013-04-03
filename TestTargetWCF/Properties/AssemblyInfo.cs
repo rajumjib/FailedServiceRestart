@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TestTargetWCF")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Target WCF")]
+[assembly: AssemblyDescription("Alternative SOAP Service for Testing")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("TestTargetWCF")]
-[assembly: AssemblyCopyright("Copyright © HP 2013")]
+[assembly: AssemblyCompany("RAJU MJIB")]
+[assembly: AssemblyProduct("Watch Man Service")]
+[assembly: AssemblyCopyright("Copyright © Jahirul Islam 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
